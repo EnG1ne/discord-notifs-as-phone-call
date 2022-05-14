@@ -19,9 +19,8 @@ How to Use:
    1) _token_ is your account access token that can be optained via [various methods](https://www.followchain.org/find-discord-token/).
    2) _monitored_channels_ids_ is a list of all the channel ids you want this tool to listen on
    3) _monitored_authors_ids_ is an OPTIONAL list for all the user's ids that you want to get a notification for (only they are monitored)
-   4) _target_keywords_ is an OPTIONAL list to only get a phone call when one of the keywords in this list is mentioned
-
-  _monitored_authors_ids_ and _target_keywords_ can be used simultaneously to provide more accuracy in selecting who can trigger your phone to ring.
+   4) _target_keywords_ is an OPTIONAL list to only get a phone call when one of the keywords in this list is mentioned <br><br>
+      _monitored_authors_ids_ and _target_keywords_ can be used simultaneously to provide more accuracy in selecting who can trigger your phone to ring.
   
 3) Compile (yes, this is necessary). 
 
