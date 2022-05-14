@@ -22,7 +22,8 @@ How to Use:
    4) _target_keywords_ is an OPTIONAL list to only get a phone call when one of the keywords in this list is mentioned
 
   _monitored_authors_ids_ and _target_keywords_ can be used simultaneously to provide more accuracy in selecting who can trigger your phone to ring.
- 
+  
+3) Compile (yes, this is necessary). 
 
 That's about all I can think of.
 
