@@ -16,7 +16,7 @@ How to Use:
         Don't froget to add a "+" followed by your region code for both these two numbers
    
    Under Discord Params
-   1) _token_ is your account access token that can be optained via [various methods](https://www.followchain.org/find-discord-token/).
+   1) _token_ is your account access token that can be optained via [various](https://www.followchain.org/find-discord-token/) [methods](https://www.androidauthority.com/get-discord-token-3149920/).
    2) _monitored_channels_ids_ is a list of all the channel ids you want this tool to listen on
    3) _monitored_authors_ids_ is an OPTIONAL list for all the user's ids that you want to get a notification for (only they are monitored)
    4) _target_keywords_ is an OPTIONAL list to only get a phone call when one of the keywords in this list is mentioned <br><br>
